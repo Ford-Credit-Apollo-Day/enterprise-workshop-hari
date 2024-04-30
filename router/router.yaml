@@ -6,6 +6,7 @@ supergraph:
   introspection: true
 
 # For demo purposes - can remove or enable homepage
+
 sandbox:
   enabled: true
 homepage:
